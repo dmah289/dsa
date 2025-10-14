@@ -1,0 +1,57 @@
+# Build artifacts
+*.o
+*.obj
+*.so
+*.a
+*.dll
+*.exe
+*.out
+
+# C/C++ generated files
+*.gch
+*.pch
+
+# Compilers / IDE
+/build/
+bin/
+dist/
+cmake-build-*/
+CMakeFiles/
+CMakeCache.txt
+
+# VSCode (local workspace settings)
+.vscode/
+
+# CLion / JetBrains
+.idea/
+
+# Competitive programming helper / local test runs
+.cph/
+
+# Local test files (explicit)
+test.cpp
+test1.cpp
+test2.cpp
+test*.cpp
+
+# Logs / temp / swap
+*.log
+*.tmp
+*.swp
+*~
+*.bak
+
+# Coverage
+coverage/
+*.gcda
+*.gcno
+*.gcov
+
+# System files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Core dumps
+core
+*.core
