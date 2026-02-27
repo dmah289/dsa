@@ -30,8 +30,6 @@ CMakeCache.txt
 
 # Local test files (explicit)
 test.cpp
-test1.cpp
-test2.cpp
 test*.cpp
 
 # Logs / temp / swap
